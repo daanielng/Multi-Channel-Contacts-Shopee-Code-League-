@@ -24,5 +24,7 @@ For the purpose of this question, assume that all contacts from the same Phone N
 are the same user.
 
 # Results
-Sucessfully created ticket_trace/contact pairs and total contacts each user has had across the 
+Sucessfully created ticket_trace/contact pairs for each user and total contacts each user has had across the 
 various tickets for all 500,000 observations in the dataset given.
+
+The computation time to process the task was also optimized.
